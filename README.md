@@ -1,3 +1,3 @@
 # tc2
 
-Ejemplos para la materia Teoría de Circuitos II
+Scripts y ejemplos para la materia Teoría de Circuitos II
